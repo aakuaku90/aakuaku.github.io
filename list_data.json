@@ -1,22 +1,34 @@
 {
-	"movies": [
+	"Mountains": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Mountain Name": "Mount Whitney",
+			"Location": "Sierra Nevada, California",
+			"Interesting Facts": "It is the highest peak in the contiguous United States at 14,505 feet",
+			"Year Discovered": "1873"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Mountain name": "Half Dome",
+			"Location": "Yosemite National Park, California",
+			"Interesting Facts": "Known for its distinctive shape, Half Dome rises 4,737 feet",
+			"Year Discovered": "1875"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Mountain name": "Mount Shasta",
+			"Location": "Cascade Range, Northern California",
+			"Interesting Facts": "his dormant stratovolcano stands at 14,179 feet",
+			"Year Discovered": "1854"
+		},
+		{
+			"Mountain name": "Mount Lassen",
+			"Location": "Lassen Volcanic National Park, California",
+			"Interesting Facts": "Mount Lassen is an active volcano and the southernmost volcano in the Cascade Range.",
+			"Year Discovered": "1864"
+		},
+		{
+			"Mountain name": "Mount Diablo",
+			"Location": "Contra Costa County, California",
+			"Interesting Facts": "Standing at 3,848 feet (1,173 meters)",
+			"Year Discovered": "1850"
 		}
 	]
 }

@@ -86,11 +86,31 @@
   text-align: center;
 }
 
+.mountains {
+  justify-content: center;
+  width: 100%;
+}
+
 .center-container p {
   font-size: 1.3rem;
-  border: solid rebeccapurple;
-  padding: 20px;
-  border-radius: 10px;
+  border: solid rgb(56, 56, 57);
+  padding: 50px;
+  border-radius: 30px;
+  background-color: #e7e8df;
+}
+
+.social-icons {
+  margin: 50px 0; /*margin above and below the icons */
+}
+
+.social-icons a {
+  margin: 0 10px; /* Spacing between icons */
+  font-size: 36px; /* Size of the icons */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.social-icons a:hover {
+  color: #908888; /* Change color on hover for effect */
 }
 
 *,
